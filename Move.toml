@@ -2,7 +2,7 @@
 name = "brbtc"
 edition = "2024.beta"
 license = "MIT"
-published-at = "0x04e44d70435bc96dd589cf160a839c21383569bd112c11a77f79142ce031b720"
+published-at = ""
 
 [dependencies]
 
