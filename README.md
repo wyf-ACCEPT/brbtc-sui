@@ -4,7 +4,7 @@
 sui move build
 sui client publish
 
-# then modify the `published-at` variable in `Move.toml`
+# then modify the `published-at` and `brbtc` variables in `Move.toml`
 ```
 
 ## Upgrade
