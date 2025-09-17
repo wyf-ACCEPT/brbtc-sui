@@ -12,9 +12,9 @@ module brbtc::brbtc {
 
     //---------------------------------------------- Constants ----------------------------------------------//
     //Todo: to be modified before deploy
-    const SYMBOL: vector<u8> = b"BRBTC";
-    const NAME: vector<u8> = b"BRBTC";
-    const DESC: vector<u8> = b"BRBTC";
+    const SYMBOL: vector<u8> = b"brBTC";
+    const NAME: vector<u8> = b"brBTC";
+    const DESC: vector<u8> = b"brBTC";
     const ICON: vector<u8> = b"https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/main/logo/brBTC.svg";
     const DECIMAL: u8 = 8;
 
